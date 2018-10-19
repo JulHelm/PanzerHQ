@@ -10,8 +10,6 @@ import java.awt.event.WindowAdapter;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import org.omg.PortableServer.POAPackage.WrongAdapter;
-
 import javax.swing.JMenuBar;
 import javax.swing.JMenu;
 import javax.swing.JMenuItem;
